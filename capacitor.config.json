@@ -1,6 +1,9 @@
 {
-	"appId": "io.ionic.starter",
-	"appName": "buildIonic",
-	"webDir": "www",
-	"bundledWebRuntime": false
+  "appId": "com.zidni.recipe",
+  "appName": "buildIonic",
+  "webDir": "www",
+  "bundledWebRuntime": false,
+  "server": {
+    "url": "http://localhost:8100"
+  }
 }
